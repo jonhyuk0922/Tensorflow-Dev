@@ -15,3 +15,10 @@ Week4. human - horse ImageDataGenerator :
 - (prepro) Save images separated by directory and 
 - (fit) use RMSprop optimizer to control the learning rate
 - (Run) upload photos and it will be classificated.(just 2 answer , human or horse)
+
+
+<h2>Course2. Convolutional Neural Networks in TensorFlow </h2>
+
+week1.
+
+Week2. Augmentation : A technique to avoid overfitting , and we can join a <div src="https://www.kaggle.com/c/dogs-vs-cats/">kaggle competition(dogs vs cats)</div>
