@@ -19,6 +19,6 @@ Week4. human - horse ImageDataGenerator :
 
 <h2>Course2. Convolutional Neural Networks in TensorFlow </h2>
 
-week1.
+week1.Data validation : It categorizes numerous images by directory.
 
 Week2. Augmentation : A technique to avoid overfitting , and we can join a <div src="https://www.kaggle.com/c/dogs-vs-cats/">kaggle competition(dogs vs cats)</div>
